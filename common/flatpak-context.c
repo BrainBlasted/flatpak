@@ -60,6 +60,7 @@ const char *flatpak_context_sockets[] = {
   "system-bus",
   "fallback-x11",
   "ssh-auth",
+  "gpg-agent",
   NULL
 };
 
